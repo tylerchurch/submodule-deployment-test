@@ -1,0 +1,9 @@
+[submodule "sales"]
+	path = sales
+	url = https://github.com/tylerchurch/submodule-deployment-test-sales
+[submodule "marketing"]
+	path = marketing
+	url = https://github.com/tylerchurch/submodule-deployment-test-marketing
+[submodule "reports"]
+	path = reports
+	url = https://github.com/tylerchurch/submodule-deployment-test-reports
