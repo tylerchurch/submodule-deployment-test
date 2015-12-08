@@ -19,3 +19,6 @@
 [submodule "one/two/six"]
 	path = one/two/six
 	url = https://github.com/tylerchurch/auto-repo-creation-test2
+[submodule "tacos"]
+	path = tacos
+	url = https://github.com/tylerchurch/submodule-deployment-test2-tacos
