@@ -13,3 +13,6 @@
 [submodule "one/two/four"]
 	path = one/two/four
 	url = https://github.com/tylerchurch/auto-repo-creation-test2
+[submodule "one/two/five"]
+	path = one/two/five
+	url = https://github.com/tylerchurch/auto-repo-creation-test2
