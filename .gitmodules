@@ -7,3 +7,6 @@
 [submodule "reports"]
 	path = reports
 	url = https://github.com/tylerchurch/submodule-deployment-test-reports
+[submodule "funky"]
+	path = funky
+	url = ../submodule-deployment-test-funky
