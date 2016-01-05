@@ -10,6 +10,3 @@
 [submodule "funky"]
 	path = funky
 	url = ../submodule-deployment-test-funky
-[submodule "removal"]
-	path = removal
-	url = https://github.com/tylerchurch/submodule-deployment-test-removal
